@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer wants to know if they can pack a power bank in their checked suitcase, specifically when the power bank is swollen and feels warm. They are confused between conflicting information and are concerned about safety.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.7,
+  "agent_score": 3,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "'Sorry, warm or not, the checked bag is still the right place.'",
+  "policy_source": "policy-handbook\\03-restricted-items-and-dangerous-goods.md",
+  "coaching_suggestion": "The agent should have informed the customer that power banks cannot be placed in checked baggage, especially if there are safety concerns like swelling or warmth. They should have redirected the customer to the appropriate safety protocols and encouraged them to keep it in the cabin."
+}

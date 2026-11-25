@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 52 — Currency and monetary-instrument declaration\n\n## Scope and customer language\n\nRetrieve for “cash limit,” “10,000 dollars,” “declare money,” “family splitting cash,” or “will they seize it.” Carrying lawful funds is allowed. Hiding an amount that must be declared is not.\n\n## Required action\n\nTell the passenger that the United States requires a declaration when they enter or leave carrying more than 10,000 US dollars, or the equivalent, in cash and other monetary instruments combined. Other countries set their own thresholds and forms. The passenger must add together the amounts they are carrying, not the amount in a single pocket. Direct them to the official form for the country they are entering or leaving. The airline does not collect the declaration.",
+    "source": "policy-handbook\\52-currency-and-monetary-instrument-declaration.md",
+    "relevance_score": 0.6427
+  },
+  {
+    "content": "If they are over the threshold, the alternative is to file the declaration, move funds by a bank, or travel with an amount that does not require a form. Do not advise the passenger to divide cash among companions, tickets, or bags to stay under the limit. Failure to declare can mean seizure, a civil penalty, and a criminal charge. Do not quote a penalty figure unless the official source states it, and do not handle or count the passenger’s cash in the chat.\n\n## Escalation and examples\n\nEscalate a passenger who says they were searched, a suspected structuring request, or a large cash amount combined with a suspicious shipment.\n\n**Compliant:** “More than 10,000 US dollars in cash and monetary instruments must be declared when entering or leaving the United States. Filing the form is the alternative. Do not split it across your group to stay under the line.”\n\n**Potentially non-compliant:** “Give some of the cash to your children so each person is under 10,000.”",
+    "source": "policy-handbook\\52-currency-and-monetary-instrument-declaration.md",
+    "relevance_score": 0.5056
+  },
+  {
+    "content": "**Potentially non-compliant:** “Give some of the cash to your children so each person is under 10,000.”\n\n**Authority:** [US CBP currency reporting](https://www.cbp.gov/travel/international-visitors/kbyg/money); the arrival or departure state’s customs authority.",
+    "source": "policy-handbook\\52-currency-and-monetary-instrument-declaration.md",
+    "relevance_score": 0.4203
+  },
+  {
+    "content": "# 02 — Baggage allowance, excess, and oversized items\n\n## Scope and likely phrases\n\nRetrieve for “how many bags,” “carry-on,” “overweight,” “oversize,” “sports equipment,” “I paid at the airport,” or “the agent charged me twice.” Baggage allowance is ticket- and itinerary-specific. Confirm the operating carrier, fare brand/cabin, route, ticket issue date, loyalty status, and whether the item is checked, cabin, sports, musical, medical, or infant equipment. A marketing carrier’s website may not control a partner-operated flight.\n\n## Required action\n\nQuote the applicable published allowance and fee rule, including dimensions, weight, piece count, currency, payment/refund conditions, and partner-carrier restrictions. Explain that airport acceptance can depend on aircraft capacity, loading, safety, and local handling limits. Never guarantee acceptance of an oversize item, cabin bag, or connecting-carrier item without confirmation.",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.251
+  }
+]

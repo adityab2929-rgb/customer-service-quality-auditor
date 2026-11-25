@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 04 — Delayed baggage and essential-expense claims\n\n## Scope and evidence\n\nRetrieve for “my bag did not arrive,” “bag still missing,” “necessities,” “delivery,” or “PIR/claim number.” Verify the bag tag, flight sectors, bag description, contact/delivery address, time reported, and tracking record. Ask the customer to report the missing bag promptly and provide the report reference; do not imply that a chat statement replaces the carrier’s tracing record.\n\n## Required action\n\nOpen or locate the mishandled-baggage report, confirm contact details, explain the current trace status without inventing a location or delivery time, and provide the approved follow-up channel. Explain that reasonable, verifiable, actual incidental expenses caused by a delayed checked bag may be claimable under applicable rules and the carrier’s process; invite receipts and explain any local deadlines. Do not set an arbitrary daily spending cap unless the controlling published rule permits it.",
+    "source": "policy-handbook\\04-delayed-baggage.md",
+    "relevance_score": 0.3924
+  },
+  {
+    "content": "**Potentially non-compliant:** “We never reimburse delayed-bag purchases.”\n\n**Authority:** [US DOT delayed baggage guidance](https://www.transportation.gov/lost-delayed-or-damaged-baggage).",
+    "source": "policy-handbook\\04-delayed-baggage.md",
+    "relevance_score": 0.3916
+  },
+  {
+    "content": "For travel involving the United States, a carrier has responsibilities to locate the bag and to compensate eligible reasonable, verifiable incidental expenses, subject to liability limits. A paid checked-bag fee may need refunding when the delay becomes significant under the applicable rule. International carriage may be governed by the Montreal Convention and its current Special Drawing Right limit; route valuation questions to claims specialists.\n\n## Escalation and examples\n\nEscalate medical equipment, medication, an assistive device, a funeral/wedding/urgent welfare allegation, a lost passport, or a prolonged/no-trace case. Keep receipts, report number, and the agent’s promised follow-up in the record.\n\n**Compliant:** “I’ve confirmed report ABC123. Please retain receipts for reasonable essentials while tracing continues; the claims team will assess them under the applicable baggage rules.”\n\n**Potentially non-compliant:** “We never reimburse delayed-bag purchases.”",
+    "source": "policy-handbook\\04-delayed-baggage.md",
+    "relevance_score": 0.273
+  },
+  {
+    "content": "# 05 — Lost, damaged, and missing-content baggage\n\n## Scope and case separation\n\nRetrieve for “bag declared lost,” “broken wheel,” “damaged suitcase,” “items missing,” or “compensation.” Distinguish delayed from lost, damage from normal wear, and damage that occurred while under the carrier’s control from pre-existing damage or inadequate packing. Do not declare a bag lost in chat unless the authorized baggage system has done so.\n\n## Required action\n\nFor damage, request photos, bag tag, report reference, date/location discovered, purchase/repair evidence if available, and a clear description. Explain that the carrier will assess repair or reimbursement under the applicable contract and law; do not promise replacement at original purchase price. Normal wear may be excluded, but some jurisdictions restrict exclusions for components such as wheels, handles, and straps.",
+    "source": "policy-handbook\\05-lost-and-damaged-baggage.md",
+    "relevance_score": 0.2394
+  }
+]

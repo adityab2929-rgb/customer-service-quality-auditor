@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Questions about cabin bag size and weight limits, personal item size, fees for gate-checking, and power bank transport rules.",
+  "customer_sentiment": "satisfied",
+  "sentiment_score": 0.9,
+  "agent_score": 9,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "Hello. In economy you get one cabin bag of 7 kg, up to 55 by 40 by 23 cm, plus one small personal item.",
+  "policy_source": "policy-handbook\\32-cabin-bag-and-personal-item-limits.md",
+  "coaching_suggestion": "Continue providing clear and accurate information to customers about baggage policies to enhance their travel experience."
+}

@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer inquired about the cost of adding an extra bag to an international flight, overweight bag regulations, and oversize bag fees.",
+  "customer_sentiment": "satisfied",
+  "sentiment_score": 0.9,
+  "agent_score": 9,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "I have added both to the ticket. Pay them before bag drop so the airport rate is not used.",
+  "policy_source": "policy-handbook\\33-excess-baggage-fees-and-prepaid-deadlines.md",
+  "coaching_suggestion": "Continue providing clear information about fees and ensure to re-confirm the amounts and conditions under which they apply during the conversation."
+}

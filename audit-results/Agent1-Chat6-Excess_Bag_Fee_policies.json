@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 33 — Excess baggage fees and prepaid deadlines\n\n## Scope and customer language\n\nRetrieve for “extra bag fee,” “pay at the airport,” “cheaper online,” “overweight charge,” or “I will just pay later.” Fees below are handbook reference charges in US dollars for flights this carrier operates. Confirm the live fee table and the currency on the ticket before collecting payment.\n\n## Required action\n\nAn extra piece paid before bag drop closes is 40 on a domestic ticket and 80 on an international ticket. The same piece paid at the airport is 75 domestic and 150 international. A checked piece above its included weight, up to 32 kg, is an overweight fee of 100 per bag. A piece above 158 cm and up to 203 cm is an oversize fee of 150. Quote both the prepaid and airport amounts, and say that the lower fee applies only when the payment is on the ticket or EMD before bag-drop closure.",
+    "source": "policy-handbook\\33-excess-baggage-fees-and-prepaid-deadlines.md",
+    "relevance_score": 0.5676
+  },
+  {
+    "content": "# 02 — Baggage allowance, excess, and oversized items\n\n## Scope and likely phrases\n\nRetrieve for “how many bags,” “carry-on,” “overweight,” “oversize,” “sports equipment,” “I paid at the airport,” or “the agent charged me twice.” Baggage allowance is ticket- and itinerary-specific. Confirm the operating carrier, fare brand/cabin, route, ticket issue date, loyalty status, and whether the item is checked, cabin, sports, musical, medical, or infant equipment. A marketing carrier’s website may not control a partner-operated flight.\n\n## Required action\n\nQuote the applicable published allowance and fee rule, including dimensions, weight, piece count, currency, payment/refund conditions, and partner-carrier restrictions. Explain that airport acceptance can depend on aircraft capacity, loading, safety, and local handling limits. Never guarantee acceptance of an oversize item, cabin bag, or connecting-carrier item without confirmation.",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.5348
+  },
+  {
+    "content": "# 34 — Overweight, oversize, and cargo alternatives\n\n## Scope and customer language\n\nRetrieve for “bag is 35 kilos,” “too big for the belt,” “will not fit the sizer,” “send it as cargo,” or “they refused my suitcase.” A passenger bag has a hard ceiling even when the traveller offers to pay.\n\n## Required action\n\nA checked piece over 32 kg, or with length plus width plus height over 203 cm, is not accepted at the passenger bag drop. Weight of 23 to 32 kg, or size of 159 to 203 cm, can travel only after the overweight or oversize fee in the excess-baggage rule is paid. Explain the measured weight and size, then offer a lawful alternative: move weight into another piece that stays inside the limit, leave items behind, or book the piece as cargo through the cargo desk on a service that accepts it. Cargo may leave on a different flight and has its own acceptance and price.",
+    "source": "policy-handbook\\34-overweight-oversize-and-cargo-alternatives.md",
+    "relevance_score": 0.4111
+  },
+  {
+    "content": "If a customer alleges a duplicate or incorrect fee, collect receipt/EMD, bag tag, itinerary, payment evidence, and flight details; open the approved billing review rather than refusing solely because payment occurred at the airport. For medical/assistive equipment, route to accessibility procedures, not ordinary excess-baggage rules. Route sports, instruments, weapons, perishables, and fragile/high-value items to their specialist policies.\n\n## Escalation and examples\n\nEscalate a disputed fee, inconsistent quoted allowance, involuntary gate check, or partner itinerary where a published rule may have been misapplied. Do not tell the customer to repack dangerous goods at the counter; use the dangerous-goods policy.\n\n**Compliant:** “Your ticket shows a partner-operated second sector, so I’ll check that carrier’s allowance before confirming whether the ski bag fee applies.”",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.3679
+  }
+]

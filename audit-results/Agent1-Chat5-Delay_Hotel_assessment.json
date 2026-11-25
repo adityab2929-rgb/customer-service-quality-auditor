@@ -1,0 +1,11 @@
+{
+  "customer_issue": "The customer is requesting a hotel and meal due to a flight delay; they are also seeking rebooking on a different flight, especially since they are traveling with an elderly person who needs additional support.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.85,
+  "agent_score": 5,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "Weather means the airline does not give a hotel, a meal, or a taxi.",
+  "policy_source": "policy-handbook\\23-disruption-care-meals-hotels-and-ground-transport.md",
+  "coaching_suggestion": "The agent should be aware of the need to verify eligibility for assistance based on the situation and explain the limitations of the policy without dismissing customer needs, especially for vulnerable passengers."
+}

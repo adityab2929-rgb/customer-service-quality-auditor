@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 12 — Ticket changes, corrections, and transfer prevention\n\n## Scope and evidence\n\nRetrieve for “change flight,” “wrong date,” “spelling mistake,” “name change,” “sell/give ticket,” or “new passport name.” Verify ticket status, fare family, change deadline, booking channel, itinerary, traveler identity, and requested edit. A name correction is not necessarily a transferable ticket or a passenger substitution.\n\n## Required action\n\nRead the fare rule and approved name-correction policy before repricing or changing. Explain fare difference, change fee if applicable, currency, ticket validity, no-show consequences, and whether the customer needs to contact the booking agent. For correction requests, collect only necessary evidence and use secure document workflow; do not request passport images in an unsecured chat. Do not alter a passenger name where the request creates a different traveler without authorized exception.",
+    "source": "policy-handbook\\12-voluntary-ticket-changes-and-name-corrections.md",
+    "relevance_score": 0.5806
+  },
+  {
+    "content": "If the passport is too short, full, or not the right document, the alternatives are to renew or replace it, change to a destination whose current rule accepts it, or postpone. A name that does not match needs the name-correction process before departure, not an explanation at the gate. The likely result of travelling anyway is denial at check-in or refusal at the border. The airline does not pay compensation for a document the passenger failed to hold, and the fare follows the ticket’s no-show or refund rule. Never suggest altering a passport.\n\n## Escalation and examples\n\nEscalate a same-day departure, a passenger already denied by document check, a minor, or a dual national using the wrong passport.\n\n**Compliant:** “The ticket says Lopez Garcia and the passport says Lopez. I need to correct the ticket to the passport name before travel. I cannot confirm that a passport expiring next month meets the destination’s validity rule.”",
+    "source": "policy-handbook\\40-passport-validity-and-name-match.md",
+    "relevance_score": 0.4423
+  },
+  {
+    "content": "# 40 — Passport validity and name match\n\n## Scope and customer language\n\nRetrieve for “passport expiry,” “six months,” “blank pages,” “name does not match,” “middle name missing,” or “can I fly on an ID card.” The passenger must hold a document that matches the ticket and satisfies every country on the journey.\n\n## Required action\n\nCompare the travel-document surname and given names with the ticket before promising travel. A domestic journey may allow the identity document this carrier publishes for that country. An international journey needs a passport, or another document border authorities at origin, transit, and destination accept for that nationality. Many states require the passport to remain valid for six months after the date of exit and to have blank pages. Some accept a shorter validity. Read the current rule for the actual itinerary. Do not treat “six months” as universal, and do not tell a passenger to travel on a damaged, cancelled, or expired passport.",
+    "source": "policy-handbook\\40-passport-validity-and-name-match.md",
+    "relevance_score": 0.403
+  },
+  {
+    "content": "When a schedule disruption caused by the airline is the actual reason, switch to the disruption/rebooking policy rather than collecting a voluntary change fee. Never promise a “free correction” or “no fare difference” without checking policy and inventory.\n\n## Escalation and examples\n\nEscalate international tickets, partner itineraries, married/divorced name evidence, suspected fraud, duplicate PNR, or a change after check-in. Sensitive identity discrepancies should be resolved before travel but agents must not give immigration-document advice.\n\n**Compliant:** “I can check whether this is an allowed spelling correction or a new passenger request. I’ll confirm the fare-rule impact before any ticket is changed.”\n\n**Potentially non-compliant:** “Tickets can always be transferred to a friend.”\n\n**Authority:** carrier contract/fare rules; identity, border, and security requirements.",
+    "source": "policy-handbook\\12-voluntary-ticket-changes-and-name-corrections.md",
+    "relevance_score": 0.3113
+  }
+]

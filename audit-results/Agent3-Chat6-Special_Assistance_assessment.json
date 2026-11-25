@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer requests a wheelchair for assistance due to reduced mobility at airports, but agent insists on requiring a medical diagnosis and an extra baggage fee. Customer does not agree to provide a medical file or pay the fee.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.9,
+  "agent_score": 2,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "I cannot add it without the medical file and the baggage fee.",
+  "policy_source": "policy-handbook\\15-special-assistance-and-disability-service.md",
+  "coaching_suggestion": "The agent should have acknowledged the customer’s request for assistance without requiring a medical diagnosis or mentioning baggage fees, as these assistive devices should be treated differently from regular baggage."
+}

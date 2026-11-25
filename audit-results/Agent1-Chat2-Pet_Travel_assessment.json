@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is nervous about traveling with a small dog in the cabin and needs information about booking, exit-row seating regulations, emotional support animal policies, requirements for travel to Singapore, and potential issues if the flight is full.",
+  "customer_sentiment": "relieved",
+  "sentiment_score": 0.85,
+  "agent_score": 9,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "Thank you. If the flight is full, what happens to her?",
+  "policy_source": "policy-handbook\\44-pets-in-cabin-and-animal-carriage.md",
+  "coaching_suggestion": "Reinforce the importance of empathy in such situations, and consider proactively addressing common concerns about traveling with pets at the beginning of the conversation."
+}

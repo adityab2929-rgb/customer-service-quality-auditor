@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is experiencing issues at check-in due to being asked for a transit visa, which they do not possess. Customer is unsure about the visa rules applicable to their nationality and concerns about passport validity.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.85,
+  "agent_score": 5,
+  "escalation_risk": "medium",
+  "policy_status": "possible_violation",
+  "evidence_quote": "The officer said the opposite. Can you tell me the rule for my nationality, or do I lose this ticket?",
+  "policy_source": "policy-handbook\\41-visas-transit-permits-and-entry-documents.md",
+  "coaching_suggestion": "Instead of asking for personal documents in the chat, provide information on how to confirm visa requirements via official government resources or the airline's document tool, ensuring to avoid requesting sensitive data without secure channels."
+}

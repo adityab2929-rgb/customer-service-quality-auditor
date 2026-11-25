@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 13 — Check-in, travel documents, and entry requirements\n\n## Scope and boundaries\n\nRetrieve for “online check-in failed,” “visa,” “passport,” “transit,” “vaccination,” “boarding pass,” or “document rejected.” Record flight/date, nationality/residency only as needed, destination/transit points, document type/expiry, and carrier/system message. Entry requirements can change and are decided by governments, not chat agents.\n\n## Required action\n\nExplain check-in window and basic document requirements from current approved sources. Direct the customer to official government/consulate sources and the carrier’s authorized travel-document tool where appropriate. State that the passenger is responsible for holding required documents, while avoiding legal or immigration advice. Do not guarantee admission, visa eligibility, transit permission, or acceptance by border authorities.",
+    "source": "policy-handbook\\13-check-in-travel-documents-and-entry-rules.md",
+    "relevance_score": 0.3652
+  },
+  {
+    "content": "**Potentially non-compliant:** “Transit passengers never need a visa.”\n\n**Authority:** official consular guidance and the carrier document tool.",
+    "source": "policy-handbook\\41-visas-transit-permits-and-entry-documents.md",
+    "relevance_score": 0.3285
+  },
+  {
+    "content": "# 41 — Visas, transit permits, and entry documents\n\n## Scope and customer language\n\nRetrieve for “do I need a visa,” “airport transit,” “ESTA,” “ETIAS,” “residence permit,” “they will let me in,” or “what if I arrive without a visa.” A visa decision belongs to the state, not to the airline. The passenger must hold the required permission before travel.\n\n## Required action\n\nIdentify nationality, residence document, destination, and every transit where the passenger passes border control or changes airport. Direct the passenger to the official government or consulate source and to the carrier’s document tool. Explain that a visa waiver or electronic authority is still a required document, and that a transit airside can still require a transit visa. Do not promise admission, a waiver, or that airline staff can obtain a visa at the airport.",
+    "source": "policy-handbook\\41-visas-transit-permits-and-entry-documents.md",
+    "relevance_score": 0.2433
+  },
+  {
+    "content": "# 12 — Ticket changes, corrections, and transfer prevention\n\n## Scope and evidence\n\nRetrieve for “change flight,” “wrong date,” “spelling mistake,” “name change,” “sell/give ticket,” or “new passport name.” Verify ticket status, fare family, change deadline, booking channel, itinerary, traveler identity, and requested edit. A name correction is not necessarily a transferable ticket or a passenger substitution.\n\n## Required action\n\nRead the fare rule and approved name-correction policy before repricing or changing. Explain fare difference, change fee if applicable, currency, ticket validity, no-show consequences, and whether the customer needs to contact the booking agent. For correction requests, collect only necessary evidence and use secure document workflow; do not request passport images in an unsecured chat. Do not alter a passenger name where the request creates a different traveler without authorized exception.",
+    "source": "policy-handbook\\12-voluntary-ticket-changes-and-name-corrections.md",
+    "relevance_score": 0.2198
+  }
+]

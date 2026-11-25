@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is concerned about safety regulations for their infant in seat 14A, an exit row seat, which the app warns against; they request to change seats but the agent insists on keeping them in the exit row.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.85,
+  "agent_score": 3,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "A paid exit seat is still yours. Please tell me the baby's full medical history so I can store it with the seat.",
+  "policy_source": "policy-handbook\\46-exit-row-and-extra-legroom-eligibility.md",
+  "coaching_suggestion": "The agent should have explained that the exit row seating regulations prohibit infants and suggested re-seating the customer to comply with safety rules properly."
+}

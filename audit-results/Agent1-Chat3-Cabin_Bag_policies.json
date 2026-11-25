@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 31 — Checked baggage allowance by cabin and route\n\n## Scope and customer language\n\nRetrieve for “how many kilos,” “checked bag weight,” “economy versus business,” “long-haul allowance,” “infant bag,” or “what does my seat include.” These are this carrier’s handbook reference limits for flights it operates. Quote the allowance printed on the ticket when it differs. A partner-operated flight can follow the operating carrier’s rule.\n\n## Required action",
+    "source": "policy-handbook\\31-checked-baggage-allowance-by-cabin-and-route.md",
+    "relevance_score": 0.4343
+  },
+  {
+    "content": "# 32 — Cabin bag and personal-item limits\n\n## Scope and customer language\n\nRetrieve for “carry-on size,” “personal item,” “under the seat,” “bag too big for the bin,” “gate check,” or “how heavy can my cabin bag be.” The cabin limit depends on the seat, not on how empty the flight looks.\n\n## Required action\n\nEconomy and premium economy may take one cabin bag of 7 kg, no larger than 55 × 40 × 23 cm, plus one personal item no larger than 40 × 30 × 15 cm. Business and first may take one cabin bag of 10 kg within the same outer size, plus one personal item of the same personal-item size. The personal item must fit under the seat in front. It is not a second 7 kg cabin bag. Wheels, pockets, and handles count toward the size. The bag must also fit the airport sizer.",
+    "source": "policy-handbook\\32-cabin-bag-and-personal-item-limits.md",
+    "relevance_score": 0.4197
+  },
+  {
+    "content": "# 02 — Baggage allowance, excess, and oversized items\n\n## Scope and likely phrases\n\nRetrieve for “how many bags,” “carry-on,” “overweight,” “oversize,” “sports equipment,” “I paid at the airport,” or “the agent charged me twice.” Baggage allowance is ticket- and itinerary-specific. Confirm the operating carrier, fare brand/cabin, route, ticket issue date, loyalty status, and whether the item is checked, cabin, sports, musical, medical, or infant equipment. A marketing carrier’s website may not control a partner-operated flight.\n\n## Required action\n\nQuote the applicable published allowance and fee rule, including dimensions, weight, piece count, currency, payment/refund conditions, and partner-carrier restrictions. Explain that airport acceptance can depend on aircraft capacity, loading, safety, and local handling limits. Never guarantee acceptance of an oversize item, cabin bag, or connecting-carrier item without confirmation.",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.4102
+  },
+  {
+    "content": "# 55 — Fare-brand restrictions the passenger accepts\n\n## Scope and customer language\n\nRetrieve for “basic economy,” “light fare,” “no seat choice,” “nonrefundable,” “I did not know the rules,” or “can I add a bag later.” The fare brand is a rule the passenger accepted at purchase, not a surprise fee invented at the airport.\n\n## Required action\n\nRead the brand on the ticket before describing what the passenger may do. Economy Light includes no checked bag, no advance seat selection unless a paid seat is added, and changes or refunds only when that fare rule prints them. Standard economy includes the checked allowance for the route and cabin and the change conditions printed on the fare. A higher cabin includes only what that cabin’s ticket shows, not every benefit seen in an advertisement. The passenger must use coupons in order and must cancel or change before the deadline the fare states.",
+    "source": "policy-handbook\\55-fare-brand-restrictions-the-passenger-accepts.md",
+    "relevance_score": 0.3364
+  }
+]

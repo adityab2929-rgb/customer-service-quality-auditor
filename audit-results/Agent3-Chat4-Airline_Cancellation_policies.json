@@ -1,0 +1,22 @@
+[
+  {
+    "content": "**Compliant:** “Because the airline cancelled the original flight, you can review the applicable rebooking and refund options before deciding; I will document your choice.”\n\n**Potentially non-compliant:** “Only a voucher is possible after an airline cancellation.”\n\n**Authority:** [EU Regulation 261/2004](https://eur-lex.europa.eu/eli/reg/2004/261/oj/eng), [US DOT refund guidance](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds).",
+    "source": "policy-handbook\\07-airline-initiated-cancellation.md",
+    "relevance_score": 0.5325
+  },
+  {
+    "content": "# 07 — Airline-initiated cancellation and material schedule change\n\n## Scope and classification\n\nRetrieve for “the airline cancelled,” “schedule changed,” “my flight disappeared,” or “you moved me.” Confirm operating carrier, original and revised itinerary, notification time, reason recorded, whether travel began, and whether the passenger accepted a rebooking. Do not treat a voluntary change as airline cancellation without evidence.\n\n## Required action\n\nClearly provide the available choices required by the applicable rule and contract: rebooking/rerouting, refund of the unused eligible portion, or other lawful option. Do not force a credit in place of a refund where a refund is owed. Give the customer reasonable information about the alternative transport, any service-assistance process, and how to choose. Obtain and log the customer’s selection; a choice may be binding under the applicable regime.",
+    "source": "policy-handbook\\07-airline-initiated-cancellation.md",
+    "relevance_score": 0.4883
+  },
+  {
+    "content": "If the booking was made through an agency, online travel agency, employer, or package provider, explain whether that seller controls the ticket or refund handling and supply the correct contact route. Do not send the customer between parties without identifying the record owner and what the airline can do. For illness, death, military orders, or duplicate booking, use a documented exception workflow and protect sensitive documents.\n\n## Escalation and examples\n\nEscalate where law creates a cooling-off right, an airline schedule change may convert the request into an involuntary refund case, a chargeback is threatened, or fare rules are unclear. Never describe a voucher as a refund.\n\n**Compliant:** “Your request is voluntary. I will check the fare conditions and the booking owner, then I can confirm whether the unused value is refundable or eligible for credit before you choose.”\n\n**Potentially non-compliant:** “Nonrefundable means there are never any options.”",
+    "source": "policy-handbook\\06-voluntary-ticket-cancellation.md",
+    "relevance_score": 0.4488
+  },
+  {
+    "content": "# 11 — Refunds, method of payment, and chargebacks\n\n## Scope and classification\n\nRetrieve for “refund,” “credit,” “cash,” “refund status,” “chargeback,” or “paid by card/agency.” Identify the refund basis: voluntary cancellation, airline cancellation/significant change, unused ancillary service, duplicate charge, denied boarding, or baggage fee. Verify ticket/EMD status, payment tender, purchaser, booking channel, and whether travel or an alternative was accepted.\n\n## Required action\n\nExplain the eligibility basis and expected processing path before submitting. A refund due under law or contract must be handled through the required method and timeframe; do not substitute a voucher without the customer’s informed agreement where a refund is owed. Refund to original form of payment unless the governing rule and authorization permit another method. Do not quote a timeline from memory—use the current finance workflow.",
+    "source": "policy-handbook\\11-refunds-and-payment-reversals.md",
+    "relevance_score": 0.4413
+  }
+]

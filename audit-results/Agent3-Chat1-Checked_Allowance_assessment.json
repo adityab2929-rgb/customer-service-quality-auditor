@@ -1,0 +1,11 @@
+{
+  "customer_issue": "The customer requested information on the number of checked bags allowed on a nine-hour international economy flight, and specifically inquired about the baggage allowance for a child under two years of age.",
+  "customer_sentiment": "satisfied",
+  "sentiment_score": 0.9,
+  "agent_score": 9,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "An international economy flight of six hours or longer includes two checked pieces. Each one can be 23 kg and 158 cm.",
+  "policy_source": "policy-handbook\\31-checked-baggage-allowance-by-cabin-and-route.md",
+  "coaching_suggestion": "Encourage the agent to continue providing clear and concise information, ensuring they confirm baggage policies related to partner airlines when mentioned."
+}

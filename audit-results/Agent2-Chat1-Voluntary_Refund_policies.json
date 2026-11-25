@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 06 — Voluntary passenger cancellations\n\n## Scope and facts to verify\n\nRetrieve for “I cannot travel,” “cancel my ticket,” “change of plans,” “bereavement,” “illness,” or “refund my nonrefundable ticket.” Verify who booked, ticket number, fare conditions, purchase channel, departure status, all coupon status, ancillary products, and jurisdiction. A request initiated by the passenger is not automatically an airline cancellation.\n\n## Required action\n\nRead the fare rule and ticketing-channel conditions before cancellation. Explain the available outcome in plain terms: refundable amount, credit/voucher, change/cancel fee if permitted, forfeiture/no-show consequence, validity, and any documented exception process. State whether action must occur before scheduled departure. Do not cancel a live reservation merely to quote an option; obtain explicit consent and document it.",
+    "source": "policy-handbook\\06-voluntary-ticket-cancellation.md",
+    "relevance_score": 0.5102
+  },
+  {
+    "content": "# 24 — Travel credits, vouchers, and unused ticket value\n\n## Scope and customer language\n\nRetrieve for “voucher,” “credit expired,” “use my credit,” “flight coupon,” “refund instead,” or “transfer credit.” Identify the source: voluntary cancellation, airline disruption, goodwill, promotional award, or unused ticket; then verify owner, value/currency, issue and expiry dates, restrictions, and ticket/credit number through approved authentication.\n\n## Required action\n\nExplain what the credit is, how it differs from a cash/card refund, its expiry and booking/travel-by rules, transferability, eligible products, currency/fare-difference treatment, and whether it can be combined. Use the written terms that applied when issued. Do not call a credit “refundable” or “cash equivalent” unless the terms legally make it so. Do not override expiration, change ownership, or reissue value outside authority.",
+    "source": "policy-handbook\\24-travel-credits-vouchers-and-expiry.md",
+    "relevance_score": 0.4835
+  },
+  {
+    "content": "# 11 — Refunds, method of payment, and chargebacks\n\n## Scope and classification\n\nRetrieve for “refund,” “credit,” “cash,” “refund status,” “chargeback,” or “paid by card/agency.” Identify the refund basis: voluntary cancellation, airline cancellation/significant change, unused ancillary service, duplicate charge, denied boarding, or baggage fee. Verify ticket/EMD status, payment tender, purchaser, booking channel, and whether travel or an alternative was accepted.\n\n## Required action\n\nExplain the eligibility basis and expected processing path before submitting. A refund due under law or contract must be handled through the required method and timeframe; do not substitute a voucher without the customer’s informed agreement where a refund is owed. Refund to original form of payment unless the governing rule and authorization permit another method. Do not quote a timeline from memory—use the current finance workflow.",
+    "source": "policy-handbook\\11-refunds-and-payment-reversals.md",
+    "relevance_score": 0.4739
+  },
+  {
+    "content": "**Potentially non-compliant:** “Nonrefundable means there are never any options.”\n\n**Authority:** applicable contract of carriage, fare rule, ticketing terms, and local consumer law.",
+    "source": "policy-handbook\\06-voluntary-ticket-cancellation.md",
+    "relevance_score": 0.4532
+  }
+]

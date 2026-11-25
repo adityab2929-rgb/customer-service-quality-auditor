@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is concerned about name discrepancy between the ticket and passport (Ana Lopez vs. Ana Lopez Garcia), and passport validity for travel. They also experienced a failed check-in due to this issue and expressed a desire to correct the name on their ticket to match the passport.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.8,
+  "agent_score": 5,
+  "escalation_risk": "medium",
+  "policy_status": "possible_violation",
+  "evidence_quote": "Check-in already failed once. I am happy to correct the ticket to Ana Lopez Garcia if that is the safe option.",
+  "policy_source": "policy-handbook\\40-passport-validity-and-name-match.md, # 12 — Ticket changes, corrections, and transfer prevention",
+  "coaching_suggestion": "Encourage the customer to follow up with a secure process for name correction instead of requesting sensitive documents via unsecured chat, and ensure to verify the specific name matching policy for international travel."
+}

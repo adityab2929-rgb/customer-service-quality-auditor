@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer inquired about declaring cash when traveling with 12,000 dollars and sought clarification on splitting the money to avoid declaration.",
+  "customer_sentiment": "concerned",
+  "sentiment_score": 0.7,
+  "agent_score": 3,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "You can share the cash so each of you stays under 10,000 dollars, and then no form is needed.",
+  "policy_source": "policy-handbook\\52-currency-and-monetary-instrument-declaration.md",
+  "coaching_suggestion": "Reinforce policy that suggests not advising customers to split cash to avoid declaration. Ensure to refer them to the appropriate declaration form requirements instead."
+}

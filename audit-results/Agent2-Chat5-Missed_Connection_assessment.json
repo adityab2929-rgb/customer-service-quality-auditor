@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Missed connection due to late arrival of the first flight, need for hotel accommodation, refusal of the agent to acknowledge separate ticket rules and the need for compliance with relevant policies.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.9,
+  "agent_score": 4,
+  "escalation_risk": "high",
+  "policy_status": "possible_violation",
+  "evidence_quote": "I want the correct rule for separate tickets.",
+  "policy_source": "policy-handbook\\10-rebooking-and-protected-connections.md",
+  "coaching_suggestion": "Ensure understanding and adherence to rules regarding separate tickets and communicate policies clearly to avoid misunderstandings."
+}

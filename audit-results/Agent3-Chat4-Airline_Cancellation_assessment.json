@@ -1,0 +1,11 @@
+{
+  "customer_issue": "The customer is upset about their flight being cancelled and requests a refund to their original payment method instead of a voucher. They also inquire about compensation, accommodations, and meals due to the cancellation.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.8,
+  "agent_score": 8,
+  "escalation_risk": "medium",
+  "policy_status": "compliant",
+  "evidence_quote": "I will not call it a credit. For the hotel, I have to use the disruption record for this cancellation, not a flat promise.",
+  "policy_source": "policy-handbook\\07-airline-initiated-cancellation.md",
+  "coaching_suggestion": "Clarify the process for hotel accommodations and cash compensation in cases of disruption to ensure the customer feels supported and informed."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 15 — Special assistance and disability service\n\n## Scope and respectful intake\n\nRetrieve for wheelchair, reduced mobility, blindness, deafness, autism, medical equipment, service animal, extra time, accessible communication, or “you refused assistance.” Ask only for information necessary to arrange the requested service. Use person-first or customer-preferred language; never require the customer to disclose a diagnosis merely to request ordinary assistance.\n\n## Required action\n\nRecord the itinerary, requested assistance, mobility/transfer needs if voluntarily provided, equipment dimensions/weight/battery details when relevant, companion status, and contact method. Confirm the request through the authorized special-service workflow and communicate any advance-notice, airport-arrival, or safety assessment requirement. Do not promise seating, an onboard aide, medical clearance, or carriage of an assistive device until confirmed under the governing rules.",
+    "source": "policy-handbook\\15-special-assistance-and-disability-service.md",
+    "relevance_score": 0.6257
+  },
+  {
+    "content": "Do not charge for assistance that law requires to be provided without charge. Treat wheelchairs and other assistive devices separately from ordinary baggage. For service animals, use the current jurisdiction-specific documentation and behavior requirements; do not call every emotional-support animal a service animal. Ensure communications are accessible and route requests missed during disruption to operations/accessibility teams promptly.\n\n## Escalation and examples\n\nEscalate damaged/delayed mobility equipment, inability to provide a requested accommodation, alleged discrimination, portable oxygen/medical-device questions, safety concerns, or tight connections. Never ask a disabled passenger to solve an airport transfer alone without checking available assistance.\n\n**Compliant:** “I can arrange the assistance request and confirm it with the airport team. For your powered wheelchair, I’ll have the specialist verify the battery handling requirements.”",
+    "source": "policy-handbook\\15-special-assistance-and-disability-service.md",
+    "relevance_score": 0.4902
+  },
+  {
+    "content": "**Compliant:** “I can arrange the assistance request and confirm it with the airport team. For your powered wheelchair, I’ll have the specialist verify the battery handling requirements.”\n\n**Potentially non-compliant:** “Wheelchairs count as normal excess baggage.”\n\n**Authority:** applicable accessibility law, carrier accessibility plan, and dangerous-goods procedures.",
+    "source": "policy-handbook\\15-special-assistance-and-disability-service.md",
+    "relevance_score": 0.4792
+  },
+  {
+    "content": "# 16 — Medical travel, pregnancy, and medication concerns\n\n## Scope and safe boundaries\n\nRetrieve for pregnancy, recent surgery, oxygen, medication, “fit to fly,” contagious illness, or medical clearance. Support staff must not diagnose, give treatment, interpret clinical records, or guarantee medical suitability for flight. The passenger’s clinician and applicable public-health/border rules control health advice.\n\n## Required action\n\nProvide current carrier policy and refer the customer to their clinician where a fitness-to-fly certificate or airline medical clearance is required. Explain document timing/form requirements without evaluating the medical content. For medication, advise keeping essential medication accessible in cabin baggage where permitted and checking destination prescription/import rules through official sources. Do not advise packing prohibited items or sharps without the relevant security/dangerous-goods process.",
+    "source": "policy-handbook\\16-medical-fitness-pregnancy-and-medication.md",
+    "relevance_score": 0.2299
+  }
+]

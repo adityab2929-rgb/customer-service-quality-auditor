@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is requesting a refund for a non-refundable economy fare ticket and is asking about the seat fee refund.",
+  "customer_sentiment": "neutral",
+  "sentiment_score": 0.5,
+  "agent_score": 8,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "I will read the fare on ticket 44190 before any change.",
+  "policy_source": "policy-handbook\\06-voluntary-ticket-cancellation.md",
+  "coaching_suggestion": "Ensure to clearly explain refund eligibility and processing timelines as per policy, and confirm they understand the terms regarding credits versus refunds."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 08 — Flight delay, care, and customer communication\n\n## Scope and records\n\nRetrieve for “flight delayed,” “stuck on plane,” “missed event,” “hotel/meal,” or “compensation.” Record original and revised times, location, operating carrier, reason as logged by operations, notification timestamps, customer’s onward connection, and any assistance already offered. Do not speculate on a cause or promise a departure time that operations has not confirmed.\n\n## Required action\n\nGive timely, factual updates with the source and next update point. Check the relevant disruption matrix for rebooking, meals, accommodation, ground transport, communication, and refund eligibility; distinguish legal entitlement from discretionary goodwill. If delay becomes cancellation or the passenger declines a significant airline-initiated change, route to the correct policy rather than keeping it as a simple delay.",
+    "source": "policy-handbook\\08-flight-delays-and-onboard-delays.md",
+    "relevance_score": 0.6021
+  },
+  {
+    "content": "For EU261-covered delays, assistance thresholds depend on flight distance and expected delay; long-delay reimbursement and compensation rules need case-specific assessment. For US domestic travel, general federal rules do not create a universal delay-compensation entitlement; commitments may arise from the carrier’s customer service plan or contract. Onboard/tarmac delay reports must go immediately to operations compliance; never instruct a passenger to leave an aircraft or disregard crew directions.\n\n## Escalation and examples\n\nEscalate medical/welfare needs, stranded minors, missed protected connections, mass disruption, alleged discrimination, or tarmac-delay concerns. Preserve the exact update and whether the customer accepted rebooking.\n\n**Compliant:** “The aircraft is delayed; I’m checking the operating carrier’s recorded cause and your applicable care/rebooking options. I cannot confirm compensation until that review is complete.”",
+    "source": "policy-handbook\\08-flight-delays-and-onboard-delays.md",
+    "relevance_score": 0.4789
+  },
+  {
+    "content": "# 23 — Disruption care: meals, hotels, and ground transport\n\n## Scope and decision factors\n\nRetrieve for “hotel,” “meal voucher,” “taxi,” “overnight,” “stranded,” or “who pays.” Eligibility is not universal. Verify cause, itinerary/jurisdiction, expected delay, time of day, passenger location, ability to leave airport, carrier availability, prepaid arrangements, and any special needs. A weather or ATC cause may change compensation analysis but does not remove the need to check published care obligations.\n\n## Required action\n\nConsult the live disruption matrix before promising a hotel, meal, transport, reimbursement, or expense cap. Tell the customer whether the carrier is arranging assistance directly, authorizing reasonable self-arranged costs, or assessing a claim later; give the approved receipt and spending guidance. Do not advise a passenger to book luxury accommodation or make nonrefundable purchases unless explicitly authorized.",
+    "source": "policy-handbook\\23-disruption-care-meals-hotels-and-ground-transport.md",
+    "relevance_score": 0.4519
+  },
+  {
+    "content": "**Potentially non-compliant:** “Every delayed flight gets cash compensation,” or “Our policy always overrides local law.”\n\n**Sources to consult:** [US DOT consumer guidance](https://www.transportation.gov/airconsumer), [EU air passenger rights](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm).",
+    "source": "policy-handbook\\01-handbook-governance-and-routing.md",
+    "relevance_score": 0.3587
+  }
+]

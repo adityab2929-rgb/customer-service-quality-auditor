@@ -1,0 +1,11 @@
+{
+  "customer_issue": "The customer inquired about carrying a 200 ml shampoo bottle in their cabin bag, the possibility of placing it in their checked bag, and questions concerning duty-free sealed items.",
+  "customer_sentiment": "positive",
+  "sentiment_score": 0.9,
+  "agent_score": 9,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "A larger bottle is refused even when it is half empty.",
+  "policy_source": "policy-handbook\\36-cabin-liquids-gels-and-aerosols.md",
+  "coaching_suggestion": "Continue to clarify cabin and checked baggage rules for liquids and ensure any additional relevant information is provided about the passenger's specific situation."
+}

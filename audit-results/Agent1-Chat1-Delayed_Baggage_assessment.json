@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Delayed baggage not arrived at destination; customer is without essential medication and clothes for a meeting.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.9,
+  "agent_score": 5,
+  "escalation_risk": "medium",
+  "policy_status": "possible_violation",
+  "evidence_quote": "I need them tonight.",
+  "policy_source": "policy-handbook\\04-delayed-baggage.md",
+  "coaching_suggestion": "The agent should have offered to open a missing-bag report immediately and advised on potential compensation or interim arrangements for essential purchases, especially considering the urgency of the customer's medication needs."
+}

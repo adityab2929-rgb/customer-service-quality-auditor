@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 04 — Delayed baggage and essential-expense claims\n\n## Scope and evidence\n\nRetrieve for “my bag did not arrive,” “bag still missing,” “necessities,” “delivery,” or “PIR/claim number.” Verify the bag tag, flight sectors, bag description, contact/delivery address, time reported, and tracking record. Ask the customer to report the missing bag promptly and provide the report reference; do not imply that a chat statement replaces the carrier’s tracing record.\n\n## Required action\n\nOpen or locate the mishandled-baggage report, confirm contact details, explain the current trace status without inventing a location or delivery time, and provide the approved follow-up channel. Explain that reasonable, verifiable, actual incidental expenses caused by a delayed checked bag may be claimable under applicable rules and the carrier’s process; invite receipts and explain any local deadlines. Do not set an arbitrary daily spending cap unless the controlling published rule permits it.",
+    "source": "policy-handbook\\04-delayed-baggage.md",
+    "relevance_score": 0.4681
+  },
+  {
+    "content": "# 05 — Lost, damaged, and missing-content baggage\n\n## Scope and case separation\n\nRetrieve for “bag declared lost,” “broken wheel,” “damaged suitcase,” “items missing,” or “compensation.” Distinguish delayed from lost, damage from normal wear, and damage that occurred while under the carrier’s control from pre-existing damage or inadequate packing. Do not declare a bag lost in chat unless the authorized baggage system has done so.\n\n## Required action\n\nFor damage, request photos, bag tag, report reference, date/location discovered, purchase/repair evidence if available, and a clear description. Explain that the carrier will assess repair or reimbursement under the applicable contract and law; do not promise replacement at original purchase price. Normal wear may be excluded, but some jurisdictions restrict exclusions for components such as wheels, handles, and straps.",
+    "source": "policy-handbook\\05-lost-and-damaged-baggage.md",
+    "relevance_score": 0.3863
+  },
+  {
+    "content": "For travel involving the United States, a carrier has responsibilities to locate the bag and to compensate eligible reasonable, verifiable incidental expenses, subject to liability limits. A paid checked-bag fee may need refunding when the delay becomes significant under the applicable rule. International carriage may be governed by the Montreal Convention and its current Special Drawing Right limit; route valuation questions to claims specialists.\n\n## Escalation and examples\n\nEscalate medical equipment, medication, an assistive device, a funeral/wedding/urgent welfare allegation, a lost passport, or a prolonged/no-trace case. Keep receipts, report number, and the agent’s promised follow-up in the record.\n\n**Compliant:** “I’ve confirmed report ABC123. Please retain receipts for reasonable essentials while tracing continues; the claims team will assess them under the applicable baggage rules.”\n\n**Potentially non-compliant:** “We never reimburse delayed-bag purchases.”",
+    "source": "policy-handbook\\04-delayed-baggage.md",
+    "relevance_score": 0.3287
+  },
+  {
+    "content": "For a bag officially declared lost, send the prescribed inventory/claim workflow and explain that valuation, depreciation, exclusions, and liability limits apply. International itineraries can be governed by the Montreal Convention; domestic rules can be different. Do not say that electronics, valuables, cash, or fragile items are always excluded—check the applicable contract and international treaty context. Refund any bag fee only under the relevant rule and process.\n\n## Escalation and examples\n\nEscalate assistive-device damage, a high-value/cross-border claim, alleged theft or tampering, a customer refusing settlement, or a statutory deadline. Preserve all photos and exact promises.\n\n**Compliant:** “The bag has not yet been declared lost. I can start the tracing/claim process and explain the evidence needed if its status changes.”\n\n**Potentially non-compliant:** “International bags are never covered for electronics,” or “A scuff always earns a new suitcase.”",
+    "source": "policy-handbook\\05-lost-and-damaged-baggage.md",
+    "relevance_score": 0.3093
+  }
+]

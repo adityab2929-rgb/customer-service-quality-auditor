@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 25 — Travel-agent, online-agency, codeshare, and package bookings\n\n## Scope and ownership\n\nRetrieve for “I booked through…,” “agency will not help,” “package holiday,” “codeshare,” “who refunds,” or “airline says contact agent.” Verify ticket stock/issuer, booking owner, operating carrier, marketing carrier, package organizer, flight coupon status, and the exact request. Customers should not be bounced between parties without a clear reason and next action.\n\n## Required action\n\nState what the airline can do directly—such as operational status, certain day-of-travel assistance, or authorized irregular-operation rebooking—and what must be processed by the ticketing agent or package organizer. Provide a specific contact path and the information the customer should give them. Do not alter or cancel agency-controlled tickets without authority, but do not deny a statutory airline obligation merely because an intermediary sold the ticket.",
+    "source": "policy-handbook\\25-third-party-agency-and-package-bookings.md",
+    "relevance_score": 0.3846
+  },
+  {
+    "content": "# 10 — Rebooking, misconnection, and partner itineraries\n\n## Scope and classification\n\nRetrieve for “missed connection,” “put me on another airline,” “next flight,” or “I was rebooked badly.” Determine whether all flights are on one ticket, whether the connection was lawful at sale, carrier responsibility for the disruption, ticket validity, operating carriers, visa/transit constraints, and the passenger’s stated needs.\n\n## Required action\n\nUse the authorized disruption/reaccommodation rules. Offer available compliant options, describe changed airports, cabins, connections, duration, and any fare/ancillary impact before ticketing. Do not promise a competitor flight, same-day travel, meal/hotel, or upgrade unless the governing rule authorizes it. If the passenger rejects an offered option, log that choice and explain remaining options.",
+    "source": "policy-handbook\\10-rebooking-and-protected-connections.md",
+    "relevance_score": 0.383
+  },
+  {
+    "content": "# 28 — Payment issues, fraud, and duplicate bookings\n\n## Scope and data minimization\n\nRetrieve for “charged twice,” “card declined,” “unauthorized booking,” “fraud,” “chargeback,” or “someone used my points/card.” Never request full card numbers, CVV, passwords, one-time codes, or identity documents in ordinary chat. Use approved secure authentication and payment channels.\n\n## Required action\n\nFor duplicate charge/booking, collect booking references, transaction date/amount/currency, last four digits if permitted, and receipt; verify whether transactions are pending, authorized, settled, refunded, or from separate tickets/ancillaries. Do not cancel a booking merely because the customer suspects a duplicate—confirm travel needs and ticket status first. Provide the approved billing-dispute path.",
+    "source": "policy-handbook\\28-payment-fraud-duplicate-bookings-and-chargebacks.md",
+    "relevance_score": 0.3826
+  },
+  {
+    "content": "**Potentially non-compliant:** “A missed connection is always your responsibility,” or “We will put you on any airline you choose.”\n\n**Authority:** applicable contract, interline agreements, fare rules, and passenger-rights regime.",
+    "source": "policy-handbook\\10-rebooking-and-protected-connections.md",
+    "relevance_score": 0.3658
+  }
+]

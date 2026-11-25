@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 31 — Checked baggage allowance by cabin and route\n\n## Scope and customer language\n\nRetrieve for “how many kilos,” “checked bag weight,” “economy versus business,” “long-haul allowance,” “infant bag,” or “what does my seat include.” These are this carrier’s handbook reference limits for flights it operates. Quote the allowance printed on the ticket when it differs. A partner-operated flight can follow the operating carrier’s rule.\n\n## Required action",
+    "source": "policy-handbook\\31-checked-baggage-allowance-by-cabin-and-route.md",
+    "relevance_score": 0.659
+  },
+  {
+    "content": "# 02 — Baggage allowance, excess, and oversized items\n\n## Scope and likely phrases\n\nRetrieve for “how many bags,” “carry-on,” “overweight,” “oversize,” “sports equipment,” “I paid at the airport,” or “the agent charged me twice.” Baggage allowance is ticket- and itinerary-specific. Confirm the operating carrier, fare brand/cabin, route, ticket issue date, loyalty status, and whether the item is checked, cabin, sports, musical, medical, or infant equipment. A marketing carrier’s website may not control a partner-operated flight.\n\n## Required action\n\nQuote the applicable published allowance and fee rule, including dimensions, weight, piece count, currency, payment/refund conditions, and partner-carrier restrictions. Explain that airport acceptance can depend on aircraft capacity, loading, safety, and local handling limits. Never guarantee acceptance of an oversize item, cabin bag, or connecting-carrier item without confirmation.",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.5381
+  },
+  {
+    "content": "## Required action\n\nState the allowance in pieces, kilos, and total linear centimeters, and say which cabin and route produced that figure. Economy Light includes no checked bag on any route. Domestic economy, and international economy on a flight under six hours, includes one piece at 23 kg and 158 cm. International economy on a flight of six hours or longer includes two pieces, each at 23 kg and 158 cm. Premium economy includes two pieces, each at 23 kg and 158 cm. Business includes two pieces, each at 32 kg and 158 cm. First includes three pieces, each at 32 kg and 158 cm. An infant under two without a paid seat includes one piece at 10 kg, plus one fully collapsible stroller or one approved car seat, in addition to the accompanying adult’s allowance. A loyalty benefit or prepaid bag counts only when the ticket or EMD shows it.",
+    "source": "policy-handbook\\31-checked-baggage-allowance-by-cabin-and-route.md",
+    "relevance_score": 0.3669
+  },
+  {
+    "content": "**Compliant:** “Your ticket shows a partner-operated second sector, so I’ll check that carrier’s allowance before confirming whether the ski bag fee applies.”\n\n**Potentially non-compliant:** “One checked bag is free on every international ticket,” or “Pay first and we will definitely refund it later.”\n\n**Authority:** carrier contract/fare rules; [US DOT baggage guidance](https://www.transportation.gov/lost-delayed-or-damaged-baggage).",
+    "source": "policy-handbook\\02-baggage-allowance-and-excess-baggage.md",
+    "relevance_score": 0.3506
+  }
+]

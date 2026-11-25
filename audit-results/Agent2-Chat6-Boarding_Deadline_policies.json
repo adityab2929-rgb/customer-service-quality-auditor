@@ -1,0 +1,22 @@
+[
+  {
+    "content": "# 01 — Handbook governance and case routing\n\n**Purpose.** This is an internal decision-support handbook for quality review and customer support. It is not the airline’s contract of carriage, tariff, fare rule, safety manual, or legal advice. For every case, the controlling source is the published contract and fare conditions applicable to the ticket, the operating carrier’s rules, and mandatory law at the itinerary’s origin, destination, and transit points. Do not promise an outcome before checking those sources.\n\n## Retrieval terms and case facts\n\nRetrieve this file for: “what am I entitled to,” “your policy,” “agent promised,” “supervisor,” “complaint,” or any case crossing jurisdictions. Record itinerary, ticketing and operating carrier, flight number/date, departure and arrival points, notification time, cause shown in operations notes, fare/ancillary purchased, payment method, and exact customer request. Preserve chat timestamps and the agent’s exact words.",
+    "source": "policy-handbook\\01-handbook-governance-and-routing.md",
+    "relevance_score": 0.397
+  },
+  {
+    "content": "**Potentially non-compliant:** “If you reach the airport before departure, we must accept the bag and hold the gate.”\n\n**Authority:** itinerary deadlines and the carrier check-in schedule.",
+    "source": "policy-handbook\\42-check-in-bag-drop-and-boarding-deadlines.md",
+    "relevance_score": 0.3954
+  },
+  {
+    "content": "**Potentially non-compliant:** “A missed connection is always your responsibility,” or “We will put you on any airline you choose.”\n\n**Authority:** applicable contract, interline agreements, fare rules, and passenger-rights regime.",
+    "source": "policy-handbook\\10-rebooking-and-protected-connections.md",
+    "relevance_score": 0.3647
+  },
+  {
+    "content": "# 14 — Boarding refusal, conduct, and fit-to-fly concerns\n\n## Scope and classification\n\nRetrieve for “they would not let me board,” “gate agent was rude,” “intoxicated,” “ill,” “dress code,” “crew refused,” or “I was removed.” Determine the documented reason: late arrival, documents, security, disruptive conduct, intoxication, health/fitness, oversales, aircraft safety/weight balance, or operational decision. Do not use a generic “denied boarding” label.\n\n## Required action\n\nMaintain a neutral, factual tone. Explain that the captain/authorized operations personnel may make final safety and conduct decisions. Do not disclose staff/other-passenger personal data, security details, or internal incident reports. Provide the complaint/review route and any available written notice required by law. Do not promise compensation until the denial category and evidence are confirmed.",
+    "source": "policy-handbook\\14-boarding-refusal-and-conduct.md",
+    "relevance_score": 0.3277
+  }
+]

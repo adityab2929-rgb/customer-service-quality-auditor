@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer's suitcase has been missing for five days, and they need their insulin urgently. They also want compensation for a checked-bag fee due to a broken wheel. The agent's responses regarding medicine and compensation are unsatisfactory to the customer.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.9,
+  "agent_score": 4,
+  "escalation_risk": "high",
+  "policy_status": "possible_violation",
+  "evidence_quote": "I need the insulin treated as urgent.",
+  "policy_source": "policy-handbook\\04-delayed-baggage.md",
+  "coaching_suggestion": "The agent should have acknowledged the urgency of the customer's request for insulin, checked internal protocols on the coverage of medical items, and sought a more empathetic approach to the customer's immediate health concern."
+}
