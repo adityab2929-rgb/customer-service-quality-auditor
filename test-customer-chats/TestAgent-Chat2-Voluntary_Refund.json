@@ -1,0 +1,23 @@
+{
+  "agent_id": "TestAgent",
+  "chat_number": 2,
+  "issue": "Voluntary_Refund",
+  "messages": [
+    {
+      "speaker": "customer",
+      "text": "I booked a ticket for next month but cannot travel now. Can I cancel it and get a refund?"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can check the fare rules for your ticket. Refund eligibility and any cancellation fee depend on the fare conditions you accepted when booking."
+    },
+    {
+      "speaker": "customer",
+      "text": "Please check it and tell me the available options before I cancel."
+    },
+    {
+      "speaker": "agent",
+      "text": "I will review the ticket fare rules and explain the refund amount, fee, and any credit option before making a change."
+    }
+  ]
+}

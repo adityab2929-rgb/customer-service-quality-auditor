@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Delayed baggage causing a need for medication and clothing urgently needed by the customer.",
+  "customer_sentiment": "frustrated",
+  "sentiment_score": 0.9,
+  "agent_score": 2,
+  "escalation_risk": "high",
+  "policy_status": "violation",
+  "evidence_quote": "A delayed bag is not our responsibility, so we cannot open a report or help with essential purchases.",
+  "policy_source": "policy-handbook\\04-delayed-baggage.md",
+  "coaching_suggestion": "The agent should have opened a mishandled-baggage report for the customer and informed them about the possibility of claiming reasonable, verifiable incidental expenses while the bag is being traced, especially since the customer highlighted the urgency regarding medication."
+}

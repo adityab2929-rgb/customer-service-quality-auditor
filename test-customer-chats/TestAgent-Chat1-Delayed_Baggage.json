@@ -1,0 +1,19 @@
+{
+  "agent_id": "TestAgent",
+  "chat_number": 1,
+  "issue": "Delayed_Baggage",
+  "messages": [
+    {
+      "speaker": "customer",
+      "text": "My checked bag did not arrive in Delhi. My medication and clothes for tomorrow are inside it."
+    },
+    {
+      "speaker": "agent",
+      "text": "A delayed bag is not our responsibility, so we cannot open a report or help with essential purchases."
+    },
+    {
+      "speaker": "customer",
+      "text": "I need a report number and need to know whether I can buy my medication tonight."
+    }
+  ]
+}

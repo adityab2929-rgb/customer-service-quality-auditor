@@ -1,0 +1,11 @@
+{
+  "customer_issue": "Customer is seeking to cancel a ticket and get a refund due to inability to travel.",
+  "customer_sentiment": "neutral",
+  "sentiment_score": 0.5,
+  "agent_score": 8,
+  "escalation_risk": "low",
+  "policy_status": "compliant",
+  "evidence_quote": "I will review the ticket fare rules and explain the refund amount, fee, and any credit option before making a change.",
+  "policy_source": "policy-handbook\\06-voluntary-ticket-cancellation.md",
+  "coaching_suggestion": "Ensure to provide clear and detailed explanations regarding fare rules, cancellation fees, and refund eligibility to the customer."
+}
